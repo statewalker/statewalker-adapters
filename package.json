@@ -1,6 +1,6 @@
 {
   "name": "@statewalker/adapters",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Implemenetation of the basic adapters pattern",
   "keywords": [],
   "homepage": "https://github.com/statewalker/statewalker-adapters",
