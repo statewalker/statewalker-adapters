@@ -1,9 +1,9 @@
 
 # @statewalker/adapters
 
-This library implements an adapter pattern.
+This library implements the [Adapter pattern](https://en.wikipedia.org/wiki/Adapter_pattern) in JavaScript.
 
-> Adapters allows dynamically adjust JavaScript objects to various contexts without changing objects nor contexts. Adapters implements "late binding" between objects and allows to create applications with high cohesion and low coupling between individual parts.
+> Adapters allow dynamically adjust JavaScript objects to various contexts without changing objects nor contexts. Adapters implement "late binding" between objects and allows to create applications with high cohesion and low coupling between individual parts.
 
 Examples of usage of this pattern:
 
